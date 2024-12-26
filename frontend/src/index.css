@@ -1,0 +1,16 @@
+/* :root {
+  --background-color: linear-gradient(0deg, #121212, #121212),
+    linear-gradient(0deg, #171923, #171923),
+    linear-gradient(0deg, #171923,  #171923);
+}
+
+body {
+  background: linear-gradient(0deg, #121212, #121212),
+    linear-gradient(0deg, #171923, #171923),
+    linear-gradient(0deg, #171923,  #171923);
+} */
+
+body {
+  background-color: #444444;
+  font-size: 16px;
+}
